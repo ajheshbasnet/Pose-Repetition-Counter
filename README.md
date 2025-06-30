@@ -1,4 +1,4 @@
-# PoseRepTracker
+# PoseRepTracker+Counter
 
 ### One of the Coolest Project I’ve Ever Made!
 
@@ -29,5 +29,6 @@ I seriously enjoyed this project a lot — moving my hands **up and down**, **to
 2. Install the required libraries:
    ```bash
    pip install opencv-python mediapipe numpy
+   ```bash
 3. python app.py
 
